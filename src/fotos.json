@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Gran Nube de Magallanes",
+    "fuente": "Alura Space",
+    "tags": ["galaxias", "nebulosas", "estrellas"],
+    "path": "/img/galeria/foto-1.png",
+    "id": "1",
+    "tagId": 2
+  },
+  {
+    "titulo": "Vía Láctea",
+    "fuente": "Alura Space",
+    "path": "/img/galeria/foto-2.png",
+    "tags": ["galaxias", "nebulosas", "estrellas", "todas"],
+    "id": "2",
+    "tagId": 2
+  },
+  {
+    "titulo": "Luna: cuarto menguante",
+    "fuente": "Alura Space",
+    "path": "/img/galeria/foto-3.png",
+    "tags": ["galaxias", "satelite", "lunas", "todas"],
+    "id": "3",
+    "tagId": 3
+  },
+  {
+    "titulo": "Galaxia de Andrómeda",
+    "fuente": "Alura Space",
+    "path": "/img/galeria/foto-4.png",
+    "tags": ["galaxias", "nebulosas", "estrellas", "todas"],
+    "id": "4",
+    "tagId": 2
+  },
+  {
+    "titulo": "Estrella Pistola",
+    "fuente": "Alura Space",
+    "path": "/img/galeria/foto-5.png",
+    "tags": ["galaxias", "estrellas", "estrella", "todas"],
+    "id": "5",
+    "tagId": 1
+  },
+  {
+    "titulo": "Ilustración",
+    "fuente": "Alura Space",
+    "path": "/img/galeria/foto-6.png",
+    "tags": ["galaxias", "nebulosas", "estrellas", "todas"],
+    "id": "6",
+    "tagId": 4
+  },
+  {
+    "titulo": "Galaxia de Andrómeda",
+    "fuente": "Alura Space",
+    "path": "/img/galeria/foto-7.png",
+    "tags": ["galaxias", "nebulosas", "estrellas", "todas"],
+    "id": "7",
+    "tagId": 2
+  },
+  {
+    "titulo": "Ilustración",
+    "fuente": "Alura Space",
+    "path": "/img/galeria/foto-8.png",
+    "tags": ["galaxias", "nebulosas", "estrellas", "todas"],
+    "id": "8",
+    "tagId": 4
+  },
+  {
+    "titulo": "Cielo estrellado",
+    "fuente": "Alura Space",
+    "path": "/img/galeria/foto-9.png",
+    "tags": ["galaxias", "nebulosas", "estrellas", "todas"],
+    "id": "9",
+    "tagId": 1
+  },
+  {
+    "titulo": "Ilustración",
+    "fuente": "Alura Space",
+    "path": "/img/galeria/foto-10.png",
+    "tags": ["galaxias", "nebulosas", "estrellas", "todas"],
+    "id": "10",
+    "tagId": 1
+  }
+]
